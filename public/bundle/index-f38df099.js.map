@@ -1,0 +1,1 @@
+{"version":3,"file":"index-f38df099.js","sources":["../../src/pages/blog/index.svelte"],"sourcesContent":["<script>\n  import {url} from '@sveltech/routify'\n\n</script>\n\n<h1>Blog page</h1>\n\n<li href={url(path)}></li>"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;wCAOU,GAAG,CAAC,IAAI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"}

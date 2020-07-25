@@ -1,0 +1,1 @@
+{"version":3,"file":"[slug]-f95f2aa9.js","sources":["../../src/pages/blog/[slug].svelte"],"sourcesContent":["<script>\n  export let slug\n</script>\n\n<h1>\n{slug}</h1>"],"names":[],"mappings":";;;;;;;;;;;;;;;qBAKC,GAAI;;;;;;;;;;;oDAAJ,GAAI;;;;;;;;;;;;;;;;;;;;;OAJQ,IAAI;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;"}
