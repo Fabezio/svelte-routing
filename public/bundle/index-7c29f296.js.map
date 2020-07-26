@@ -1,0 +1,1 @@
+{"version":3,"file":"index-7c29f296.js","sources":["../../src/pages/index.svelte"],"sourcesContent":["<script>\n  $: console.log(html)\n</script>\n\n<h1>Home page</h1>\n<!-- <p>{$window}</p> -->"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;EACK,OAAO,CAAC,GAAG,CAAC,IAAI;;;;;;;;;;;;;;;;;;;;"}

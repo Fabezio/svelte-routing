@@ -1,10 +1,11 @@
 <script>
   import {url} from '@sveltech/routify'
+  import Head from '../../components/Head.svelte'
   // export let path
   $: console.log(url)
 </script>
 
-<h1>Blog page</h1>
+<Head head="Blog page" />
 
 <a href={$url('blog/machin')}>machin</a><br>
 <a href={$url('blog/truc')}>truc</a><br>

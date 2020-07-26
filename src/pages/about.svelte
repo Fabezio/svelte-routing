@@ -1,5 +1,4 @@
 <script>
-  
+  import Head from '../components/Head.svelte'
 </script>
 
-<h1>About page</h1>
